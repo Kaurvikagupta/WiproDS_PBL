@@ -1,4 +1,4 @@
-# Wipro TalentNext PBL – Python
+# Wipro TalentNext PBL – Python (Data Science)
 
 ## Overview
 
