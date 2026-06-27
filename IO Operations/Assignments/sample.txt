@@ -1,0 +1,4 @@
+Python is easy.
+Python is powerful.
+Programming in Python is fun.
+File handling is important.File handling is important.
